@@ -1,2 +1,1 @@
-# cindy_ice_breaker
-LangChain Learning
+# Ice Breaker
